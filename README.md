@@ -12,7 +12,7 @@
 </html>
 <body></body>
 <h2>Zulqarnain image</h2>
-<https://github.com/Zulqarnainali742/zulqarnainali.github.io/blob/main/zulqarnain.jpg>
+<img src="zulqarnain.jpg" width="260" height=""100">
 </body>
 </html>
 <h2>NAME=ZAIN ABBAS </h2> 
