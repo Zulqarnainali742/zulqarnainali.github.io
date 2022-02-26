@@ -12,7 +12,7 @@
 </html>
 <body></body>
 <h2>Zulqarnain image</h2>
-![zulqarnain](https://github.com/Zulqarnainali742/zulqarnainali.github.io/blob/main/zulqarnain.jpg)
+<https://github.com/Zulqarnainali742/zulqarnainali.github.io/blob/main/zulqarnain.jpg>
 </body>
 </html>
 <h2>NAME=ZAIN ABBAS </h2> 
